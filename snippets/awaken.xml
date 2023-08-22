@@ -102,6 +102,7 @@
   <!-- Vendor -->
   <project path="vendor/awaken" name="android_vendor_awaken" remote="awaken-xt" revision="awake" />
   <project path="vendor/gms" name="android_vendor_gms" remote="awaken-gitlab" clone-depth="1" />
+  <project path="vendor/Themes" name="android_vendor_Themes" remote="awaken-xt" revision="awake" />
 
   <!-- ProtonAosp -->
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" groups="pdk" remote="github" revision="main" />
