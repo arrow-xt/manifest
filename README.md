@@ -17,7 +17,7 @@ Prior to building, you will need basic knowledge of [Git](https://www.atlassian.
 1. Run the following commands to sync source
 
 ```
-repo init -u https://github.com/awaken-xt/manifest -b awake --git-lfs
+repo init -u https://github.com/awaken-xt/manifest -b wip --git-lfs
 ```
 2. To sync source, enter
 
